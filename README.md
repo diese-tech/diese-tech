@@ -1,16 +1,73 @@
-## Hi there 👋
+# Dustin / Diese
 
-<!--
-**diese-tech/diese-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Operations analyst and builder focused on Discord automation, gaming community infrastructure, operational tooling, and lightweight SaaS systems.
 
-Here are some ideas to get you started:
+I enjoy building practical systems that reduce manual work, improve workflows, and help online communities operate more smoothly.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## What I Build
+
+### Discord & Community Tooling
+- Draft systems
+- Match tracking
+- Randomization tools
+- Voice channel automation
+- Community workflows
+- Admin utilities
+
+### Gaming League Infrastructure
+- Amateur esports league tooling
+- Draft management systems
+- Season tracking
+- Leaderboards and stat systems
+- Community-focused web platforms
+
+### Operational & SaaS Projects
+- Dispatch workflow systems
+- Automation dashboards
+- Internal tooling
+- Lightweight operational platforms
+
+---
+
+## Featured Projects
+
+### GodForge
+Smite 2 Discord drafting and randomization bot built for competitive gaming communities.
+
+### ForgeLens
+Match and stat tracking platform designed around league operations and community management.
+
+### SwiftDispatch
+HVAC dispatch and operational workflow platform focused on technician coordination and intake workflows.
+
+### SAL Draft League
+Competitive draft and league management experiments for organized gaming communities.
+
+### Civ 6 League
+Ranking, season, and league infrastructure for Civilization communities.
+
+---
+
+## Tech Stack
+
+`Python` • `Discord.py` • `Next.js` • `TypeScript` • `Supabase` • `Neon` • `PostgreSQL` • `Tailwind` • `Vercel`
+
+---
+
+## Current Focus
+
+- Building automation tools for gaming communities
+- Improving frontend and product design skills
+- Exploring applied AI workflows and operational tooling
+- Finishing my cybersecurity degree
+
+---
+
+## Connect
+
+- Twitch: OfficialDiese
+- GitHub: diese-tech
+
+Always building something new.
