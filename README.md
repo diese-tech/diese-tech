@@ -42,7 +42,7 @@ Match and stat tracking platform designed around league operations and community
 ### SwiftDispatch
 HVAC dispatch and operational workflow platform focused on technician coordination and intake workflows.
 
-### SAL Draft League
+### SAL Site
 Competitive draft and league management experiments for organized gaming communities.
 
 ### Civ 6 League
