@@ -1,73 +1,177 @@
-# Dustin / Diese
+# Diese Tech
 
-Operations analyst and builder focused on Discord automation, gaming community infrastructure, operational tooling, and lightweight SaaS systems.
+Building practical software for operations, automation, AI, and community infrastructure.
 
-I enjoy building practical systems that reduce manual work, improve workflows, and help online communities operate more smoothly.
+Diese Tech develops systems that eliminate repetitive work, streamline operations, and turn manual processes into reliable software. Our projects span SaaS products, AI-assisted workflows, operational dashboards, and tools for online communities and local businesses.
 
 ---
 
-## What I Build
+# What We Build
 
-### Discord & Community Tooling
+## Operations & SaaS
+
+Software that helps businesses run more efficiently.
+
+- Operational dashboards
+- Workflow automation
+- Dispatch and scheduling platforms
+- Internal tools
+- Client portals
+- Business management systems
+
+## Applied AI
+
+Practical AI that assists operators instead of replacing them.
+
+- AI-assisted workflows
+- Local LLM integrations
+- Voice assistants
+- RAG systems
+- Automation agents
+- Decision support tools
+
+## Community Infrastructure
+
+Software built for organized online communities.
+
+- Discord bots
+- League management
 - Draft systems
 - Match tracking
-- Randomization tools
-- Voice channel automation
-- Community workflows
-- Admin utilities
-
-### Gaming League Infrastructure
-- Amateur esports league tooling
-- Draft management systems
-- Season tracking
-- Leaderboards and stat systems
-- Community-focused web platforms
-
-### Operational & SaaS Projects
-- Dispatch workflow systems
-- Automation dashboards
-- Internal tooling
-- Lightweight operational platforms
+- Leaderboards
+- Community automation
 
 ---
 
-## Featured Projects
+# Featured Projects
 
-### GodForge
-Smite 2 Discord drafting and randomization bot built for competitive gaming communities.
+## BrewLoop
 
-### ForgeLens
-Match and stat tracking platform designed around league operations and community management.
+Customer loyalty and digital queue platform designed for independent coffee shops.
 
-### SwiftDispatch
-HVAC dispatch and operational workflow platform focused on technician coordination and intake workflows.
+## SONATA
 
-### SAL Site
-Competitive draft and league management experiments for organized gaming communities.
+AI-powered operations platform for service businesses featuring scheduling, automation, room management, and voice assistance.
 
-### Civ 6 League
-Ranking, season, and league infrastructure for Civilization communities.
+## SwiftDispatch
 
----
+Field service dispatch platform focused on technician coordination, intake workflows, scheduling, and operational visibility.
 
-## Tech Stack
+## ForgeLens
 
-`Python` • `Discord.py` • `Next.js` • `TypeScript` • `Supabase` • `Neon` • `PostgreSQL` • `Tailwind` • `Vercel`
+Match tracking and league operations platform built for competitive gaming communities.
 
----
+## GodForge
 
-## Current Focus
+Discord drafting and randomization bot for organized competitive play.
 
-- Building automation tools for gaming communities
-- Improving frontend and product design skills
-- Exploring applied AI workflows and operational tooling
-- Finishing my cybersecurity degree
+## SAL Site
+
+League management platform supporting competitive communities through registration, drafting, scheduling, and administration.
 
 ---
 
-## Connect
+# How We Build
 
-- Twitch: OfficialDiese
-- GitHub: diese-tech
+Every project begins as a small experiment.
 
-Always building something new.
+Successful experiments become products.
+
+Reusable patterns are extracted into templates.
+
+Retired projects are archived instead of deleted so lessons remain accessible.
+
+This keeps the organization focused on shipping software while continuously improving the engineering process behind it.
+
+---
+
+# Engineering Principles
+
+- Build practical software that solves real problems.
+- Automate repetitive work wherever possible.
+- Prefer simple, maintainable systems over unnecessary complexity.
+- Design software that scales operationally before it scales technically.
+- Treat AI as an operational multiplier, not a replacement for human judgment.
+
+---
+
+# Repository Structure
+
+Repositories generally fall into five categories:
+
+### Products
+
+Production software, client work, and actively maintained applications.
+
+### Labs
+
+Experiments, prototypes, proofs of concept, and research projects.
+
+### Education
+
+Projects built specifically for learning new technologies, frameworks, or concepts. These repositories document the learning process and are intentionally preserved as milestones in technical growth.
+
+### Templates
+
+Reusable starter repositories and shared foundations used across products.
+
+### Archive
+
+Completed or retired projects preserved for reference and historical context.
+
+---
+
+# Tech Stack
+
+### Frontend
+
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
+- shadcn/ui
+
+### Backend
+
+- Python
+- FastAPI
+- Supabase
+- PostgreSQL
+- Neon
+- Docker
+
+### AI & Automation
+
+- Ollama
+- OpenAI
+- Claude
+- n8n
+- Home Assistant
+- Qdrant
+
+### Infrastructure
+
+- GitHub
+- Vercel
+- Docker
+- Linux
+- Windows
+
+---
+
+# Current Focus
+
+- Building operational SaaS products
+- Applying AI to real-world business workflows
+- Creating reusable engineering systems and templates
+- Expanding local business software offerings
+- Completing a cybersecurity degree
+
+---
+
+# Connect
+
+- Twitch: **OfficialDiese**
+- GitHub: **diese-tech**
+
+Always building. Always improving.
