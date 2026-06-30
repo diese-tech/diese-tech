@@ -117,7 +117,7 @@ Reusable starter repositories and shared foundations used across products.
 
 ### Archive
 
-Completed or retired projects preserved for reference and historical context.
+The project graveyard. Software rarely dies forever—it usually leaves behind a lesson, a reusable idea, or code worth bringing back.
 
 ---
 
