@@ -117,7 +117,7 @@ Reusable starter repositories and shared foundations used across products.
 
 ### Archive
 
-The project graveyard. Software rarely dies forever—it usually leaves behind a lesson, a reusable idea, or code worth bringing back.
+The project graveyard. Software rarely dies without leaving behind a lesson, a reusable idea, or code worth bringing back.
 
 ---
 
